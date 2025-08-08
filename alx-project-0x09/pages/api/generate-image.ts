@@ -1,5 +1,6 @@
 
-import { HEIGHT, RequestProps, WIDTH } from "@/interfaces";
+import { WIDTH, HEIGHT } from "@/constants";
+import {  RequestProps } from "@/interfaces";
 import { NextApiRequest, NextApiResponse } from "next"
 
 
